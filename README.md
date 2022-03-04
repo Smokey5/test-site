@@ -1,0 +1,3 @@
+# fotomatic
+
+Codecademy exercise
